@@ -87,10 +87,10 @@ body {
   background-color: #2196f3;
 }
 
-.hero-under-top-tytle {
+.hero-under-top-title {
   font-weight: 700;
   font-size: 14px;
-  line-height: 16px;
+  line-height: 1.14;
   letter-spacing: 0.03em;
   text-transform: uppercase;
 }
@@ -140,6 +140,10 @@ body {
   background-color: #2f303a;
 }
 
+.footer-address {
+  font-style: normal
+}
+
 .footer-span {
   color: #ffffff;
 }
@@ -168,6 +172,7 @@ body {
 }
 
 .portfolio-btn {
+  font-family: inherit;
   font-weight: 500;
   font-size: 16px;
   line-height: 1.62;
