@@ -19,16 +19,16 @@ body {
 /* ------------------HEADER------------------ */
 
 .header-logo {
-  font-family: 'Raleway';  
+  font-family: "Raleway";
   font-weight: 700;
   font-size: 26px;
   line-height: 1.19;
   letter-spacing: 0.03em;
-  color: #2196F3;  
+  color: #2196f3;
 }
 
 .header-span {
-color: #000;
+  color: #000;
 }
 
 .header-link {
@@ -45,7 +45,7 @@ color: #000;
   font-size: 14px;
   line-height: 1.14;
   letter-spacing: 0.02em;
-  color:var(--other-text-color);
+  color: var(--other-text-color);
 }
 
 .header-link:hover,
@@ -74,7 +74,7 @@ color: #000;
 }
 
 .hero-btn {
-  font-family:inherit;
+  font-family: inherit;
   font-weight: 700;
   font-size: 16px;
   line-height: 1.88;
@@ -84,7 +84,7 @@ color: #000;
   letter-spacing: 0.06em;
   cursor: pointer;
   color: var(--title-text-color);
-  background-color: #2196F3;  
+  background-color: #2196f3;
 }
 
 .hero-under-top-tytle {
@@ -103,66 +103,68 @@ color: #000;
 }
 
 .hero-midle-title {
-    font-weight: 700;
-    font-size: 36px;
-    line-height: 1.16;
-    text-align: center;
-    letter-spacing: 0.03em;
-    
+  font-weight: 700;
+  font-size: 36px;
+  line-height: 1.16;
+  text-align: center;
+  letter-spacing: 0.03em;
 }
 
 .hero-down-top-title {
-    font-weight: 700;
-    font-size: 36px;
-    line-height: 1.16;
-    text-align: center;
-    letter-spacing: 0.03em;
+  font-weight: 700;
+  font-size: 36px;
+  line-height: 1.16;
+  text-align: center;
+  letter-spacing: 0.03em;
 }
 
 .hero-down-title {
-    font-weight: 500;
-    font-size: 16px;
-    line-height: 1.18;
-    text-align: center;
-    letter-spacing: 0.03em;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 1.18;
+  text-align: center;
+  letter-spacing: 0.03em;
 }
 
 .hero-down-text {
-    font-size: 16px;
-    line-height: 1.18 ;
-    text-align: center;
-    letter-spacing: 0.03em;
-    color: var(--other-text-color);
+  font-size: 16px;
+  line-height: 1.18;
+  text-align: center;
+  letter-spacing: 0.03em;
+  color: var(--other-text-color);
 }
 
 /* ------------FOOTER---------------- */
 
-.footer{
-background-color: #2f303a;
+.footer {
+  background-color: #2f303a;
 }
 
-.footer-span{
+.footer-span {
   color: #ffffff;
 }
 
 .footer-text {
-    font-size: 14px;
-    line-height: 1.71;    
-    letter-spacing: 0.03em;
-    color: var(--title-text-color);}
+  font-size: 14px;
+  line-height: 1.71;
+  letter-spacing: 0.03em;
+  color: var(--title-text-color);
+}
 
-.footer-tel, .footer-e-mail {
-    font-size: 14px;
-    line-height: 1.71;
-    letter-spacing: 0.03em;
-    color: rgba(255, 255, 255, 0.6);}
+.footer-tel,
+.footer-e-mail {
+  font-size: 14px;
+  line-height: 1.71;
+  letter-spacing: 0.03em;
+  color: rgba(255, 255, 255, 0.6);
+}
 
 /* ------------PORTFOLIO---------------- */
 
 .portfolio-btn:hover,
 .portfolio-btn:focus {
   color: var(--title-text-color);
-  background-color: #2196F3;
+  background-color: #2196f3;
 }
 
 .portfolio-btn {
@@ -176,10 +178,10 @@ background-color: #2f303a;
 
 .examples-title {
   font-weight: 700;
-    font-size: 18px;
-    line-height: 2;
-    letter-spacing: 0.06em;
-    color: var(--main-text-color);
+  font-size: 18px;
+  line-height: 2;
+  letter-spacing: 0.06em;
+  color: var(--main-text-color);
 }
 
 .examples-text {
@@ -188,4 +190,3 @@ background-color: #2f303a;
   letter-spacing: 0.03em;
   color: var(--other-text-color);
 }
-
