@@ -46,7 +46,7 @@ body {
   background-color: #2f303a;
 }
 
-.hero-tytle {
+.hero-title {
   font-weight: 900;
   font-size: 44px;
   line-height: 1.36;
@@ -57,6 +57,7 @@ body {
 }
 
 .hero-btn {
+    font-family:inherit;
   font-weight: 700;
   font-size: 16px;
   line-height: 1.88;
@@ -65,6 +66,7 @@ body {
   text-align: center;
   letter-spacing: 0.06em;
   color: #ffffff;
+  cursor: pointer;
 }
 
 .hero-under-top-tytle {
@@ -82,7 +84,7 @@ body {
   color: #757575;
 }
 
-.hero-midle-tytle {
+.hero-midle-title {
     font-weight: 700;
     font-size: 36px;
     line-height: 1.16;
@@ -91,7 +93,7 @@ body {
     
 }
 
-.hero-down-top-tytle {
+.hero-down-top-title {
     font-weight: 700;
     font-size: 36px;
     line-height: 1.16;
@@ -99,7 +101,7 @@ body {
     letter-spacing: 0.03em;
 }
 
-.hero-down-tytle {
+.hero-down-title {
     font-weight: 500;
     font-size: 16px;
     line-height: 19px;
