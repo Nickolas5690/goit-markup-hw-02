@@ -24,12 +24,11 @@ body {
   font-size: 26px;
   line-height: 1.19;
   letter-spacing: 0.03em;
-  color: #2196F3;
-  background-color: #2f303a;
+  color: #2196F3;  
 }
 
 .header-span {
-color: #ffffff;
+color: #000;
 }
 
 .header-link {
@@ -136,8 +135,14 @@ color: #ffffff;
     color: var(--other-text-color);
 }
 
+/* ------------FOOTER---------------- */
+
 .footer{
 background-color: #2f303a;
+}
+
+.footer-span{
+  color: #ffffff;
 }
 
 .footer-text {
